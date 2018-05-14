@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-Laravel (Production)
+Laravel (Éles :))
                 </div>
 
                 <div class="links">
